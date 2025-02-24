@@ -1,1 +1,1 @@
-"print('Hello, GitHub Collaboration!')" 
+"print('Updated Script')" 
